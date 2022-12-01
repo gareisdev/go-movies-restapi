@@ -1,7 +1,7 @@
 
 # GO Movies REST API
 
-This is a little REST API builded with GO, and using JSON files to storage data.
+This is a little REST API built with GO, and uses JSON files to store data.
 ## Endpoints
 
 ### Get all movies
