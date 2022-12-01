@@ -1,6 +1,8 @@
 
 # GO Movies REST API
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/gareisdev/go-movies-restapi)](https://goreportcard.com/report/github.com/gareisdev/go-movies-restapi)
+
 This is a little REST API built with GO, and uses JSON files to store data.
 ## Endpoints
 
