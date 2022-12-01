@@ -8,4 +8,4 @@ RUN go mod download && go mod verify
 
 COPY . .
 
-RUN go build -v -o /usr/local/bin/app ./main.go
+RUN go build -v -o /usr/local/bin/app ./cmd/main.go
